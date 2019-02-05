@@ -1,4 +1,0 @@
-  My favorite editor is Jupyter notebook. I like the way it has been designed and performed. Pyhton been used in jupyter notebook associated with visualization and lots of cool features. We can execute
- the shell command as well as the python commands along with all the differnt libraries such as matplotlib,scifi,numpy,panda and many more. The mathmetical side of the editor is also very stong and 
-accurate with precise results and barplot, chart and graph to explore. Another reason I like it because you can also execute certain part of the code to test and you can run it in google colab and save it
-any time in your drive also. The editor is also best for exploring and predicting a result based on performance, different test model and chart to visualize and analyze our results. 
